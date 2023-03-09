@@ -19,5 +19,5 @@ The exercises of this homework are in Chapter 3 of An Introduction to Statistica
 * This homework will illustrate the trade off between model error and \gamma the parameter of regularization term in Ridge and lasso regression and show the solution path of prostate cancer data after performing lasso and ridge regression.
 
 ## Homework 4
-* This homework is a classification problem and uses the credit card default dataset (Default.csv) which is available in the ISLR book. The models used are Logistic regression, kNN, Naiev Bayes, LDA and QDA and then observe the performance of each method.
+* This homework is a classification problem and uses the credit card default dataset (Default.csv) which is available in the ISLR book. The models used are Logistic regression, kNN, Naive Bayes, LDA and QDA and then observe the performance of each method.
 
