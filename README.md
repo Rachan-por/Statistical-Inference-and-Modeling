@@ -21,3 +21,5 @@ The exercises of this homework are in Chapter 3 of An Introduction to Statistica
 ## Homework 4
 * This homework is a classification problem and uses the credit card default dataset (Default.csv) which is available in the ISLR book. The models used are Logistic regression, kNN, Naive Bayes, LDA and QDA and then observe the performance of each method.
 
+## Homework 5
+* This homework is to derive the Bayes decision boudary from different sets of covariance matrix and try to find a boudary decision when the assumption of class likelihood has changed from gaussian distribution to gamma distribution.
