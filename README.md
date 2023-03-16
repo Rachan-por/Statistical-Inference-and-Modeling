@@ -5,6 +5,7 @@ Reference textbooks of this course are An Introduction to Statistical Learning w
 
 ## Chapter_ISLR
 This are notebooks which are created for summarizinig (in thai) the ideas and wrote a python code to visuallize the content in the ISLR book. 
+* Chapter 4 isn't complete.
 
 
 ## Homework 1
